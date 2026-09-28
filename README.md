@@ -35,7 +35,7 @@
 
 ```toml
 [Ioana-Teodora]
-Role       = "Founding AI Researcher @Analogue Intelligence"
+Role       = "AI Researcher @ Analogue Intelligence Lab · Teaching Assistant @ VU"
 Status     = "MSc AI @ UvA · BSc AI @ VU"
 Focus      = "AI · Robotics · Creative Technology & Computing"
 ToolChain  = "Python · Numpy · PyTorch · MuJoCo · Git"
