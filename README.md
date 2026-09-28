@@ -35,10 +35,9 @@
 
 ```toml
 [Ioana-Teodora]
-Role       = "AI Researcher · Student"
-Origin     = "Bucharest, Romania"
-Status     = "MSc AI @ UvA · in progress"
-Focus      = "AI · Robotics · Creative Technology"
+Role       = "Founding AI Researcher @Analogue Intelligence"
+Status     = "MSc AI @ UvA · BSc AI @ VU"
+Focus      = "AI · Robotics · Creative Technology & Computing"
 ToolChain  = "Python · Numpy · PyTorch · MuJoCo · Git"
 
 [Education]
